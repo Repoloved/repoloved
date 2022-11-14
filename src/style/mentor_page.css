@@ -678,7 +678,7 @@ body {
     .icon4 {
         position: relative;
         top: -30px;
-        margin-left: 320px;
+        margin-left: 280px;
     }
 
     .size-icon4 {
@@ -715,17 +715,17 @@ body {
 
     .content-profile .content-desc {
         display: inline-block;
-        margin-left: 28px;
+        margin-left: 24px;
     }
 
     .content-profile .content-name {
-        font-size: 18px;
+        font-size: 17px;
         font-weight: 700;
     }
 
     .content-profile .content-job {
         margin-top: -20px;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 300;
         color: #716D6D;
     }
@@ -736,9 +736,9 @@ body {
     }
 
     .content-skills .content-skills-title {
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 600;
-        margin-bottom: 20px;
+        margin-bottom: 25px;
     }
 
     .content-skills .content-list {
