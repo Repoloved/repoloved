@@ -150,6 +150,7 @@ body {
         top: 0;
         right: 0;
         background-color: #274257;
+        border: 2px solid #274257;
         border-radius: 180px;
         padding: 8px 30px;
         text-decoration: none;
@@ -348,6 +349,7 @@ body {
         top: 0;
         right: 0;
         background-color: #274257;
+        border: 2px solid #274257;
         border-radius: 180px;
         padding: 8px 30px;
         text-decoration: none;
@@ -547,6 +549,7 @@ body {
         top: 0;
         right: 0;
         background-color: #274257;
+        border: 2px solid #274257;
         border-radius: 180px;
         padding: 8px 30px;
         text-decoration: none;
@@ -699,7 +702,7 @@ body {
 
     .content-card {
         width: 446px;
-        padding: 24px 38px;
+        padding: 24px 30px;
         background-color: #FFFFFF;
         border-radius: 30px;
     }
@@ -755,6 +758,7 @@ body {
         top: 0;
         right: 0;
         background-color: #274257;
+        border: 2px solid #274257;
         border-radius: 180px;
         padding: 8px 30px;
         text-decoration: none;
