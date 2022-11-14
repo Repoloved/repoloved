@@ -5,7 +5,7 @@ body {
     background-color: #274257;
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 1400px) {
     .bg-main {
         background-color: #C4D21A;
     }
@@ -21,7 +21,6 @@ body {
     }
 
     /* Content Selection */
-
     .space-content-1 {
         margin-top: 80px;
     }
@@ -37,6 +36,7 @@ body {
         font-size: 20px;
         font-weight: 400;
         margin-top: -20px;
+        padding: 0 100px;
     }
 
     .space-content-image {
@@ -49,7 +49,7 @@ body {
 
     .icon1 {
         position: relative;
-        top: -430px;
+        top: -150px;
         margin-left: 200px;
     }
 
@@ -59,8 +59,8 @@ body {
 
     .icon2 {
         position: relative;
-        top: -500px;
-        margin-left: 340px;
+        top: -20px;
+        margin-left: 440px;
     }
 
     .size-icon2 {
@@ -69,8 +69,8 @@ body {
 
     .icon3 {
         position: relative;
-        top: -280px;
-        margin-left: 1050px;
+        top: -70px;
+        margin-left: 890px;
     }
 
     .size-icon3 {
@@ -79,7 +79,7 @@ body {
 
     .icon4 {
         position: relative;
-        top: -400px;
+        top: -50px;
         margin-left: 1120px;
     }
 
@@ -87,6 +87,94 @@ body {
         width: 30px;
     }
 
+    /* Content Card Section */
+    .content {
+        margin-top: 200px;
+        margin-bottom: 300px;
+    }
+
+    .content-card {
+        width: 446px;
+        padding: 24px 38px;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+    }
+
+    .content-profile {
+        display: flex;
+        align-items: center;
+    }
+
+    .content-profile .content-image {
+        width: 80px;
+    }
+
+    .content-profile .content-desc {
+        display: inline-block;
+        margin-left: 28px;
+    }
+
+    .content-profile .content-name {
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    .content-profile .content-job {
+        margin-top: -20px;
+        font-size: 16px;
+        font-weight: 300;
+        color: #716D6D;
+    }
+
+    .content-skills {
+        margin-top: 29px;
+        position: relative;
+    }
+
+    .content-skills .content-skills-title {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .content-skills .content-list {
+        margin-bottom: -10px;
+    }
+
+    .content-skills .content-list .list-value {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .content-skills .content-button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color: #274257;
+        border-radius: 180px;
+        padding: 8px 30px;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 700;
+        color: #ffffff;
+    }
+
+    .content-footer {
+        margin-top: 80px;
+    }
+
+    .content-footer .content-footer-sosmed {
+        margin-right: 40px;
+    }
+
+    .content-footer .content-footer-sosmed img {
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .content-footer .content-footer-star img {
+        width: 25px;
+    }
+
     /* Floating Selection */
     .size-icon-active {
         width: 50px;
@@ -109,7 +197,7 @@ body {
     }
 }
 
-@media (min-width: 1100px) and (max-width: 1299.5px) {
+@media (min-width: 1024px) and (max-width: 1439px) {
     .bg-main {
         background-color: #C4D21A;
     }
@@ -153,8 +241,8 @@ body {
 
     .icon1 {
         position: relative;
-        top: -430px;
-        margin-left: 80px;
+        top: -150px;
+        margin-left: 200px;
     }
 
     .size-icon1 {
@@ -163,8 +251,8 @@ body {
 
     .icon2 {
         position: relative;
-        top: -500px;
-        margin-left: 200px;
+        top: -20px;
+        margin-left: 440px;
     }
 
     .size-icon2 {
@@ -173,8 +261,8 @@ body {
 
     .icon3 {
         position: relative;
-        top: -280px;
-        margin-left: 930px;
+        top: -70px;
+        margin-left: 790px;
     }
 
     .size-icon3 {
@@ -183,12 +271,100 @@ body {
 
     .icon4 {
         position: relative;
-        top: -400px;
-        margin-left: 1000px;
+        top: -50px;
+        margin-left: 920px;
     }
 
     .size-icon4 {
         width: 30px;
+    }
+
+    /* Content Card Section */
+    .content {
+        margin-top: 200px;
+        margin-bottom: 300px;
+    }
+
+    .content-card {
+        width: 446px;
+        padding: 24px 38px;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+    }
+
+    .content-profile {
+        display: flex;
+        align-items: center;
+    }
+
+    .content-profile .content-image {
+        width: 80px;
+    }
+
+    .content-profile .content-desc {
+        display: inline-block;
+        margin-left: 28px;
+    }
+
+    .content-profile .content-name {
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    .content-profile .content-job {
+        margin-top: -20px;
+        font-size: 16px;
+        font-weight: 300;
+        color: #716D6D;
+    }
+
+    .content-skills {
+        margin-top: 29px;
+        position: relative;
+    }
+
+    .content-skills .content-skills-title {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .content-skills .content-list {
+        margin-bottom: -10px;
+    }
+
+    .content-skills .content-list .list-value {
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    .content-skills .content-button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color: #274257;
+        border-radius: 180px;
+        padding: 8px 30px;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 700;
+        color: #ffffff;
+    }
+
+    .content-footer {
+        margin-top: 80px;
+    }
+
+    .content-footer .content-footer-sosmed {
+        margin-right: 40px;
+    }
+
+    .content-footer .content-footer-sosmed img {
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .content-footer .content-footer-star img {
+        width: 25px;
     }
 
     /* Floating Selection */
@@ -213,215 +389,7 @@ body {
     }
 }
 
-@media (min-width: 992px) and (max-width: 1099.5px) {
-    .bg-main {
-        background-color: #C4D21A;
-    }
-
-    /* Navbar Selection */
-    .size-logo {
-        width: 60px;
-    }
-
-    .size-github {
-        width: 50px;
-        height: 50px;
-    }
-
-    /* Content Selection */
-
-    .space-content-1 {
-        margin-top: 50px;
-    }
-
-    .text-content-1 {
-        color: #FFFFFF;
-        font-size: 35px;
-        font-weight: 800;
-    }
-
-    .text-content-2 {
-        color: #FFFFFF;
-        font-size: 18px;
-        font-weight: 400;
-        margin-top: -20px;
-    }
-
-    .space-content-image {
-        margin-top: 60px;
-    }
-
-    .size-image-content {
-        width: 500px;
-    }
-
-    .icon1 {
-        position: relative;
-        top: -380px;
-        margin-left: 80px;
-    }
-
-    .size-icon1 {
-        width: 50px;
-    }
-
-    .icon2 {
-        position: relative;
-        top: -440px;
-        margin-left: 200px;
-    }
-
-    .size-icon2 {
-        width: 30px;
-    }
-
-    .icon3 {
-        position: relative;
-        top: -210px;
-        margin-left: 820px;
-    }
-
-    .size-icon3 {
-        width: 50px;
-    }
-
-    .icon4 {
-        position: relative;
-        top: -330px;
-        margin-left: 900px;
-    }
-
-    .size-icon4 {
-        width: 30px;
-    }
-
-    /* Floating Selection */
-    .size-icon-active {
-        width: 40px;
-    }
-
-    .size-icon {
-        width: 50px;
-    }
-
-    .floating-bg {
-        position: fixed;
-        right: 15%;
-        left: 15%;
-        bottom: 5%;
-        width: 447px;
-        background-color: #C4D21A;
-        color: #274257;
-        padding: 8px 0px;
-        border-radius: 20px;
-    }
-}
-
-@media (min-width: 900px) and (max-width: 991.5px) {
-    .bg-main {
-        background-color: #C4D21A;
-    }
-
-    /* Navbar Selection */
-    .size-logo {
-        width: 60px;
-    }
-
-    .size-github {
-        width: 50px;
-        height: 50px;
-    }
-
-    /* Content Selection */
-
-    .space-content-1 {
-        margin-top: 50px;
-    }
-
-    .text-content-1 {
-        color: #FFFFFF;
-        font-size: 35px;
-        font-weight: 800;
-    }
-
-    .text-content-2 {
-        color: #FFFFFF;
-        font-size: 18px;
-        font-weight: 400;
-        margin-top: -20px;
-    }
-
-    .space-content-image {
-        margin-top: 60px;
-    }
-
-    .size-image-content {
-        width: 500px;
-    }
-
-    .icon1 {
-        position: relative;
-        top: -370px;
-        margin-left: 110px;
-    }
-
-    .size-icon1 {
-        width: 40px;
-    }
-
-    .icon2 {
-        position: relative;
-        top: -420px;
-        margin-left: 200px;
-    }
-
-    .size-icon2 {
-        width: 20px;
-    }
-
-    .icon3 {
-        position: relative;
-        top: -210px;
-        margin-left: 750px;
-    }
-
-    .size-icon3 {
-        width: 40px;
-    }
-
-    .icon4 {
-        position: relative;
-        top: -330px;
-        margin-left: 800px;
-    }
-
-    .size-icon4 {
-        width: 20px;
-    }
-
-    /* Floating Selection */
-    .size-icon-active {
-        width: 40px;
-    }
-
-    .size-icon {
-        width: 50px;
-    }
-
-    .floating-bg {
-        position: fixed;
-        right: 15%;
-        left: 15%;
-        bottom: 5%;
-        width: 447px;
-        background-color: #C4D21A;
-        color: #274257;
-        padding: 8px 0px;
-        border-radius: 20px;
-    }
-}
-
-@media (min-width: 768px) and (max-width: 899.5px) {
+@media (min-width: 768px) and (max-width: 1023px) {
     .bg-main {
         background-color: #C4D21A;
     }
