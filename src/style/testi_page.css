@@ -534,7 +534,7 @@ body {
     }
 }
 
-@media (min-width: 375px) and (max-width: 768px) {
+@media (min-width: 359px) and (max-width: 768px) {
     .bg-main {
         background-color: #C4D21A;
     }
@@ -640,15 +640,15 @@ body {
     }
 
     .content-card-image .design {
-        width: 130px;
+        width: 125px;
     }
 
     .content-card-image .result {
-        width: 175px;
+        width: 165px;
     }
 
     .content-card-image .difference {
-        width: 130px;
+        width: 125px;
     }
 
     .content-card-desc {
@@ -711,7 +711,7 @@ body {
     }
 }
 
-@media (min-width: 320px) and (max-width: 376px) {
+@media (min-width: 320px) and (max-width: 359px) {
     .bg-main {
         background-color: #C4D21A;
     }
