@@ -188,7 +188,7 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
@@ -245,7 +245,6 @@ body {
     .bg-main {
         background-color: #C4D21A;
     }
-
 
     /* Preloader */
     .preloader {
@@ -329,7 +328,6 @@ body {
     }
 
     /*  Preloader */
-
 
     /* Navbar Selection */
     .size-logo {
@@ -426,7 +424,7 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
@@ -479,11 +477,11 @@ body {
     }
 }
 
+
 @media (min-width: 992px) and (max-width: 1099.5px) {
     .bg-main {
         background-color: #C4D21A;
     }
-
 
     /* Preloader */
     .preloader {
@@ -568,7 +566,6 @@ body {
 
     /*  Preloader */
 
-
     /* Navbar Selection */
     .size-logo {
         width: 60px;
@@ -608,7 +605,7 @@ body {
 
     .icon1 {
         position: relative;
-        top: -380px;
+        top: -350px;
         margin-left: 80px;
     }
 
@@ -618,7 +615,7 @@ body {
 
     .icon2 {
         position: relative;
-        top: -440px;
+        top: -420px;
         margin-left: 200px;
     }
 
@@ -664,7 +661,7 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
@@ -722,7 +719,6 @@ body {
         background-color: #C4D21A;
     }
 
-
     /* Preloader */
     .preloader {
         --bg-color: #274257;
@@ -845,7 +841,7 @@ body {
 
     .icon1 {
         position: relative;
-        top: -370px;
+        top: -380px;
         margin-left: 110px;
     }
 
@@ -901,7 +897,7 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
@@ -958,7 +954,6 @@ body {
     .bg-main {
         background-color: #C4D21A;
     }
-
 
     /* Preloader */
     .preloader {
@@ -1138,7 +1133,7 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 18px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
@@ -1160,7 +1155,7 @@ body {
 
     .text-quality-judul {
         margin-top: 16px;
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 700;
     }
 
@@ -1195,7 +1190,6 @@ body {
     .bg-main {
         background-color: #C4D21A;
     }
-
 
     /* Preloader */
     .preloader {
@@ -1325,7 +1319,7 @@ body {
     }
 
     .size-icon1 {
-        width: 20px;
+        width: 30px;
     }
 
     .icon2 {
@@ -1335,7 +1329,7 @@ body {
     }
 
     .size-icon2 {
-        width: 10px;
+        width: 20px;
     }
 
     .icon3 {
@@ -1345,7 +1339,7 @@ body {
     }
 
     .size-icon3 {
-        width: 20px;
+        width: 30px;
     }
 
     .icon4 {
@@ -1355,7 +1349,7 @@ body {
     }
 
     .size-icon4 {
-        width: 10px;
+        width: 20px;
     }
 
     /* waves*/
@@ -1376,7 +1370,7 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 18px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
@@ -1399,7 +1393,7 @@ body {
 
     .text-quality-judul {
         margin-top: 16px;
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 700;
     }
 
@@ -1430,11 +1424,10 @@ body {
     }
 }
 
-@media (min-width: 500px) and (max-width: 629.5px) {
+@media (min-width: 500px) and (max-width: 629.6px) {
     .bg-main {
         background-color: #C4D21A;
     }
-
 
     /* Preloader */
     .preloader {
@@ -1564,7 +1557,7 @@ body {
     }
 
     .size-icon1 {
-        width: 20px;
+        width: 30px;
     }
 
     .icon2 {
@@ -1574,7 +1567,7 @@ body {
     }
 
     .size-icon2 {
-        width: 10px;
+        width: 20px;
     }
 
     .icon3 {
@@ -1584,7 +1577,7 @@ body {
     }
 
     .size-icon3 {
-        width: 20px;
+        width: 30px;
     }
 
     .icon4 {
@@ -1594,7 +1587,7 @@ body {
     }
 
     .size-icon4 {
-        width: 10px;
+        width: 20px;
     }
 
     /* waves*/
@@ -1615,7 +1608,7 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 18px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
@@ -1638,7 +1631,7 @@ body {
 
     .text-quality-judul {
         margin-top: 16px;
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 700;
     }
 
@@ -1674,7 +1667,6 @@ body {
         background-color: #C4D21A;
     }
 
-
     /* Preloader */
     .preloader {
         --bg-color: #274257;
@@ -1758,6 +1750,7 @@ body {
 
     /*  Preloader */
 
+
     /* Navbar Selection */
     .size-logo {
         width: 40px;
@@ -1772,18 +1765,18 @@ body {
     /* Content Selection */
 
     .space-content-1 {
-        margin-top: 170px;
+        margin-top: 150px;
     }
 
     .text-content-1 {
         color: #FFFFFF;
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 800;
     }
 
     .text-content-2 {
         color: #FFFFFF;
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 400;
         margin-top: -20px;
     }
@@ -1793,47 +1786,47 @@ body {
     }
 
     .size-image-content {
-        width: 300px;
+        width: 350px;
     }
 
     .icon1 {
         position: relative;
-        top: -260px;
-        margin-left: 50px;
+        top: -320px;
+        margin-left: 20px;
     }
 
     .size-icon1 {
-        width: 20px;
+        width: 30px;
     }
 
     .icon2 {
         position: relative;
-        top: -300px;
+        top: -370px;
         margin-left: 130px;
     }
 
     .size-icon2 {
-        width: 10px;
+        width: 20px;
     }
 
     .icon3 {
         position: relative;
-        top: -190px;
-        margin-left: 300px;
+        top: -225px;
+        margin-left: 280px;
     }
 
     .size-icon3 {
-        width: 20px;
+        width: 30px;
     }
 
     .icon4 {
         position: relative;
-        top: -230px;
-        margin-left: 350px;
+        top: -250px;
+        margin-left: 380px;
     }
 
     .size-icon4 {
-        width: 10px;
+        width: 20px;
     }
 
     /* waves*/
@@ -1854,13 +1847,13 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 14px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
 
     .text-informasi-isi {
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 400;
         margin-bottom: 40px;
     }
@@ -1877,12 +1870,12 @@ body {
 
     .text-quality-judul {
         margin-top: 16px;
-        font-size: 16px;
+        font-size: 26px;
         font-weight: 700;
     }
 
     .text-quality-isi {
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 500;
     }
 
@@ -1908,11 +1901,11 @@ body {
     }
 }
 
+
 @media (max-width: 412.5px) {
     .bg-main {
         background-color: #C4D21A;
     }
-
 
     /* Preloader */
     .preloader {
@@ -2011,18 +2004,18 @@ body {
     /* Content Selection */
 
     .space-content-1 {
-        margin-top: 170px;
+        margin-top: 130px;
     }
 
     .text-content-1 {
         color: #FFFFFF;
-        font-size: 16px;
+        font-size: 26px;
         font-weight: 800;
     }
 
     .text-content-2 {
         color: #FFFFFF;
-        font-size: 10px;
+        font-size: 14px;
         font-weight: 400;
         margin-top: -20px;
     }
@@ -2032,47 +2025,47 @@ body {
     }
 
     .size-image-content {
-        width: 250px;
+        width: 300px;
     }
 
     .icon1 {
         position: relative;
-        top: -220px;
+        top: -325px;
         margin-left: 20px;
     }
 
     .size-icon1 {
-        width: 10px;
+        width: 30px;
     }
 
     .icon2 {
         position: relative;
-        top: -260px;
-        margin-left: 60px;
+        top: -370px;
+        margin-left: 160px;
     }
 
     .size-icon2 {
-        width: 5px;
+        width: 20px;
     }
 
     .icon3 {
         position: relative;
-        top: -170px;
-        margin-left: 270px;
+        top: -205px;
+        margin-left: 170px;
     }
 
     .size-icon3 {
-        width: 10px;
+        width: 30px;
     }
 
     .icon4 {
         position: relative;
-        top: -210px;
+        top: -230px;
         margin-left: 300px;
     }
 
     .size-icon4 {
-        width: 5px;
+        width: 20px;
     }
 
     /* waves*/
@@ -2093,13 +2086,13 @@ body {
 
     /* Informasi Selection */
     .text-informasi-judul {
-        font-size: 12px;
+        font-size: 26px;
         font-weight: 600;
         margin-bottom: 36px;
     }
 
     .text-informasi-isi {
-        font-size: 10px;
+        font-size: 14px;
         font-weight: 400;
         margin-bottom: 40px;
     }
@@ -2116,12 +2109,12 @@ body {
 
     .text-quality-judul {
         margin-top: 16px;
-        font-size: 12px;
+        font-size: 20px;
         font-weight: 700;
     }
 
     .text-quality-isi {
-        font-size: 10px;
+        font-size: 14px;
         font-weight: 500;
     }
 
