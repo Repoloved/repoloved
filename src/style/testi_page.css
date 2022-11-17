@@ -375,18 +375,18 @@ body {
     /* Content Selection */
 
     .space-content-1 {
-        margin-top: 280px;
+        margin-top: 150px;
     }
 
     .text-content-1 {
         color: #FFFFFF;
-        font-size: 26px;
+        font-size: 35px;
         font-weight: 800;
     }
 
     .text-content-2 {
         color: #FFFFFF;
-        font-size: 14px;
+        font-size: 18px;
         font-weight: 400;
         margin-top: -20px;
     }
@@ -402,7 +402,7 @@ body {
     .icon1 {
         position: relative;
         top: -130px;
-        margin-left: 140px;
+        margin-left: 160px;
     }
 
     .size-icon1 {
@@ -580,7 +580,7 @@ body {
     .icon1 {
         position: relative;
         top: -150px;
-        margin-left: 30px;
+        margin-left: 180px;
     }
 
     .size-icon1 {
@@ -590,7 +590,7 @@ body {
     .icon2 {
         position: relative;
         top: -200px;
-        margin-left: 130px;
+        margin-left: 260px;
     }
 
     .size-icon2 {
@@ -619,7 +619,7 @@ body {
 
     /* Content Card */
     .content-card {
-        margin-top: 230px;
+        margin-top: 180px;
         margin-bottom: 300px;
     }
 

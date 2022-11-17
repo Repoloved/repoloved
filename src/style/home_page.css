@@ -36,7 +36,8 @@ body {
         color: #FFFFFF;
         font-size: 20px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
+        padding: 0 220px;
     }
 
     .space-content-image {
@@ -59,7 +60,7 @@ body {
 
     .icon2 {
         position: relative;
-        top: -500px;
+        top: -530px;
         margin-left: 340px;
     }
 
@@ -123,6 +124,7 @@ body {
 
     .decoration-quality {
         border-radius: 20px;
+        padding: 5px 30px;
     }
 
     .text-quality-judul {
@@ -189,7 +191,8 @@ body {
         color: #FFFFFF;
         font-size: 20px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
+        padding: 0 150px;
     }
 
     .space-content-image {
@@ -202,8 +205,8 @@ body {
 
     .icon1 {
         position: relative;
-        top: -430px;
-        margin-left: 80px;
+        top: -500px;
+        margin-left: 180px;
     }
 
     .size-icon1 {
@@ -212,8 +215,8 @@ body {
 
     .icon2 {
         position: relative;
-        top: -500px;
-        margin-left: 200px;
+        top: -540px;
+        margin-left: 300px;
     }
 
     .size-icon2 {
@@ -223,7 +226,7 @@ body {
     .icon3 {
         position: relative;
         top: -280px;
-        margin-left: 930px;
+        margin-left: 890px;
     }
 
     .size-icon3 {
@@ -233,7 +236,7 @@ body {
     .icon4 {
         position: relative;
         top: -400px;
-        margin-left: 1000px;
+        margin-left: 950px;
     }
 
     .size-icon4 {
@@ -276,6 +279,7 @@ body {
 
     .decoration-quality {
         border-radius: 20px;
+        padding: 0 30px;
     }
 
     .text-quality-judul {
@@ -311,6 +315,7 @@ body {
     }
 }
 
+
 @media (min-width: 992px) and (max-width: 1099.5px) {
     .bg-main {
         background-color: #C4D21A;
@@ -342,7 +347,8 @@ body {
         color: #FFFFFF;
         font-size: 18px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
+        padding: 0 130px;
     }
 
     .space-content-image {
@@ -365,7 +371,7 @@ body {
 
     .icon2 {
         position: relative;
-        top: -420px;
+        top: -490px;
         margin-left: 200px;
     }
 
@@ -428,6 +434,7 @@ body {
     }
 
     .decoration-quality {
+        padding: 0 20px;
         border-radius: 20px;
     }
 
@@ -495,7 +502,7 @@ body {
         color: #FFFFFF;
         font-size: 18px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
     }
 
     .space-content-image {
@@ -508,8 +515,8 @@ body {
 
     .icon1 {
         position: relative;
-        top: -380px;
-        margin-left: 110px;
+        top: -250px;
+        margin-left: 210px;
     }
 
     .size-icon1 {
@@ -518,8 +525,8 @@ body {
 
     .icon2 {
         position: relative;
-        top: -420px;
-        margin-left: 200px;
+        top: -290px;
+        margin-left: 300px;
     }
 
     .size-icon2 {
@@ -635,7 +642,7 @@ body {
     /* Content Selection */
 
     .space-content-1 {
-        margin-top: 280px;
+        margin-top: 150px;
     }
 
     .text-content-1 {
@@ -648,7 +655,8 @@ body {
         color: #FFFFFF;
         font-size: 14px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
+        padding: 0 80px;
     }
 
     .space-content-image {
@@ -661,7 +669,7 @@ body {
 
     .icon1 {
         position: relative;
-        top: -260px;
+        top: -290px;
         margin-left: 110px;
     }
 
@@ -671,7 +679,7 @@ body {
 
     .icon2 {
         position: relative;
-        top: -320px;
+        top: -390px;
         margin-left: 200px;
     }
 
@@ -682,7 +690,7 @@ body {
     .icon3 {
         position: relative;
         top: -170px;
-        margin-left: 640px;
+        margin-left: 540px;
     }
 
     .size-icon3 {
@@ -692,7 +700,7 @@ body {
     .icon4 {
         position: relative;
         top: -260px;
-        margin-left: 690px;
+        margin-left: 650px;
     }
 
     .size-icon4 {
@@ -730,11 +738,12 @@ body {
     /* quality Selection */
     .space-content-2 {
         margin-top: 200px;
-        margin-bottom: 150px;
+        margin-bottom: 300px;
     }
 
     .decoration-quality {
         border-radius: 20px;
+        padding: 0 20px;
     }
 
     .text-quality-judul {
@@ -890,6 +899,7 @@ body {
 
     .decoration-quality {
         border-radius: 20px;
+        padding: 0 20px;
     }
 
     .text-quality-judul {
@@ -957,7 +967,7 @@ body {
         color: #FFFFFF;
         font-size: 14px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
     }
 
     .space-content-image {
@@ -1040,11 +1050,12 @@ body {
     /* quality Selection */
     .space-content-2 {
         margin-top: 200px;
-        margin-bottom: 150px;
+        margin-bottom: 300px;
     }
 
     .decoration-quality {
         border-radius: 20px;
+        padding: 0 20px;
     }
 
     .text-quality-judul {
@@ -1085,7 +1096,6 @@ body {
         background-color: #C4D21A;
     }
 
-
     /* Navbar Selection */
     .size-logo {
         width: 40px;
@@ -1113,7 +1123,7 @@ body {
         color: #FFFFFF;
         font-size: 14px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
     }
 
     .space-content-image {
@@ -1196,11 +1206,12 @@ body {
     /* quality Selection */
     .space-content-2 {
         margin-top: 200px;
-        margin-bottom: 150px;
+        margin-bottom: 300px;
     }
 
     .decoration-quality {
         border-radius: 20px;
+        padding: 0 20px;
     }
 
     .text-quality-judul {
@@ -1236,6 +1247,7 @@ body {
     }
 }
 
+
 @media (max-width: 412.5px) {
     .bg-main {
         background-color: #C4D21A;
@@ -1268,7 +1280,7 @@ body {
         color: #FFFFFF;
         font-size: 14px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
     }
 
     .space-content-image {
@@ -1281,7 +1293,7 @@ body {
 
     .icon1 {
         position: relative;
-        top: -325px;
+        top: -375px;
         margin-left: 20px;
     }
 
@@ -1291,7 +1303,7 @@ body {
 
     .icon2 {
         position: relative;
-        top: -370px;
+        top: -390px;
         margin-left: 160px;
     }
 
@@ -1351,11 +1363,12 @@ body {
     /* quality Selection */
     .space-content-2 {
         margin-top: 200px;
-        margin-bottom: 150px;
+        margin-bottom: 300px;
     }
 
     .decoration-quality {
         border-radius: 20px;
+        padding: 0 20px;
     }
 
     .text-quality-judul {

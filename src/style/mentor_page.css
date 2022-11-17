@@ -35,8 +35,8 @@ body {
         color: #FFFFFF;
         font-size: 20px;
         font-weight: 400;
-        margin-top: -20px;
-        padding: 0 100px;
+        margin-top: -10px;
+        padding: 0 300px;
     }
 
     .space-content-image {
@@ -204,7 +204,7 @@ body {
     }
 }
 
-@media (min-width: 1024px) and (max-width: 1439px) {
+@media (min-width: 1024px) and (max-width: 1440px) {
     .bg-main {
         background-color: #C4D21A;
     }
@@ -235,7 +235,8 @@ body {
         color: #FFFFFF;
         font-size: 20px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
+        padding: 0 150px;
     }
 
     .space-content-image {
@@ -248,8 +249,8 @@ body {
 
     .icon1 {
         position: relative;
-        top: -150px;
-        margin-left: 200px;
+        top: -180px;
+        margin-left: 180px;
     }
 
     .size-icon1 {
@@ -279,7 +280,7 @@ body {
     .icon4 {
         position: relative;
         top: -50px;
-        margin-left: 920px;
+        margin-left: 720px;
     }
 
     .size-icon4 {
@@ -403,7 +404,7 @@ body {
     }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (min-width: 768px) and (max-width: 1024px) {
     .bg-main {
         background-color: #C4D21A;
     }
@@ -421,20 +422,20 @@ body {
     /* Content Selection */
 
     .space-content-1 {
-        margin-top: 280px;
+        margin-top: 150px;
     }
 
     .text-content-1 {
         color: #FFFFFF;
-        font-size: 26px;
+        font-size: 35px;
         font-weight: 800;
     }
 
     .text-content-2 {
         color: #FFFFFF;
-        font-size: 14px;
+        font-size: 18px;
         font-weight: 400;
-        margin-top: -20px;
+        margin-top: -10px;
         padding: 0 100px;
     }
 
@@ -603,7 +604,219 @@ body {
     }
 }
 
-@media (min-width: 320px) and (max-width: 767px) {
+@media (min-width: 500px) and (max-width: 768px) {
+    .bg-main {
+        background-color: #C4D21A;
+    }
+
+    /* Navbar Selection */
+    .size-logo {
+        width: 40px;
+        height: 40px;
+    }
+
+    .size-github {
+        width: 30px;
+        height: 30px;
+    }
+
+    /* Content Selection */
+
+    .space-content-1 {
+        margin-top: 150px;
+    }
+
+    .text-content-1 {
+        color: #FFFFFF;
+        font-size: 26px;
+        font-weight: 800;
+    }
+
+    .text-content-2 {
+        color: #ffffff;
+        font-size: 14px;
+        font-weight: 400;
+        margin-top: -10px;
+        padding: 0 5px;
+    }
+
+    .space-content-image {
+        margin-top: 40px;
+    }
+
+    .size-image-content {
+        width: 350px;
+    }
+
+
+    .icon1 {
+        position: relative;
+        top: -240px;
+        margin-left: 160px;
+    }
+
+    .size-icon1 {
+        width: 30px;
+    }
+
+    .icon2 {
+        position: relative;
+        top: -20px;
+        margin-left: 160px;
+    }
+
+    .size-icon2 {
+        width: 20px;
+    }
+
+    .icon3 {
+        position: relative;
+        top: -40px;
+        margin-left: 270px;
+    }
+
+    .size-icon3 {
+        width: 50px;
+    }
+
+    .icon4 {
+        position: relative;
+        top: -30px;
+        margin-left: 390px;
+    }
+
+    .size-icon4 {
+        width: 30px;
+    }
+
+    /* Content Card Section */
+    .content {
+        margin-top: 200px;
+        margin-bottom: 300px;
+    }
+
+    .content-space {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 60px;
+    }
+
+    .content-card {
+        width: 446px;
+        padding: 24px 30px;
+        background-color: #FFFFFF;
+        border-radius: 30px;
+    }
+
+    .content-profile {
+        display: flex;
+        align-items: center;
+    }
+
+    .content-profile .content-image {
+        width: 80px;
+    }
+
+    .content-profile .content-desc {
+        display: inline-block;
+        margin-left: 24px;
+    }
+
+    .content-profile .content-name {
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    .content-profile .content-job {
+        margin-top: -20px;
+        font-size: 16px;
+        font-weight: 300;
+        color: #716D6D;
+    }
+
+    .content-skills {
+        margin-top: 29px;
+        position: relative;
+    }
+
+    .content-skills .content-skills-title {
+        font-size: 14px;
+        font-weight: 600;
+        margin-bottom: 25px;
+    }
+
+    .content-skills .content-list {
+        margin-bottom: -10px;
+    }
+
+    .content-skills .content-list .list-value {
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    .content-skills .content-button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color: #274257;
+        border: 2px solid #274257;
+        border-radius: 180px;
+        padding: 8px 30px;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 700;
+        color: #ffffff;
+    }
+
+    .content-skills .content-button:active {
+        border: 2px solid #274257;
+        background-color: #FFFFFF;
+        color: #274257;
+    }
+
+    .content-footer {
+        margin-top: 80px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .content-footer .content-footer-sosmed {
+        margin-right: 40px;
+    }
+
+    .content-footer .content-footer-sosmed img {
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .content-footer .content-footer-star img {
+        width: 20px;
+    }
+
+
+    /* Floating Selection */
+    .size-icon-active {
+        width: 25px;
+    }
+
+    .size-icon {
+        width: 30px;
+    }
+
+    .floating-bg {
+        position: fixed;
+        right: 10%;
+        left: 10%;
+        bottom: 5%;
+        width: 250px;
+        background-color: #C4D21A;
+        color: #274257;
+        padding: 8px 10px;
+        border-radius: 10px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 500px) {
     .bg-main {
         background-color: #C4D21A;
     }
@@ -691,7 +904,7 @@ body {
     /* Content Card Section */
     .content {
         margin-top: 200px;
-        margin-bottom: 100px;
+        margin-bottom: 300px;
     }
 
     .content-space {
