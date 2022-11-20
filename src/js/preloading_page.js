@@ -9,12 +9,12 @@ function preloader() {
 
             setInterval(
                 () => p.remove(),
-                parseInt(p.css('--duration')) * 1000
+                parseInt(p.css('--duration')) * 500
             );
 
         }, 1000)
 
     });
 }
-setInterval(() => preloader(), 300);
+setInterval(() => preloader(), 500);
 /* PreLoader End */
