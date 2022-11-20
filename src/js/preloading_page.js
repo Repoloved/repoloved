@@ -16,5 +16,5 @@ function preloader() {
 
     });
 }
-setInterval(() => preloader(), 500);
+setInterval(() => preloader(), 300);
 /* PreLoader End */
