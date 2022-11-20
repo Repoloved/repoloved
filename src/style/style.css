@@ -26,9 +26,9 @@
         right: 0;
         bottom: 0;
         z-index: -1;
-        min-height: 100%;
-        max-height: 120%;
-        width: auto;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     .content {
@@ -111,9 +111,9 @@
         right: 0;
         bottom: 0;
         z-index: -1;
-        min-height: 100%;
-        max-height: 120%;
-        width: auto;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     .content {
@@ -196,8 +196,9 @@
         right: 0;
         bottom: 0;
         z-index: -1;
-        width: auto;
-        height: auto;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
     }
 
     @supports (transform: translateX(-50%)) {
@@ -290,8 +291,9 @@
         right: 0;
         bottom: 0;
         z-index: -1;
-        width: auto;
+        width: 100%;
         height: 100%;
+        object-fit: cover;
     }
 
     @supports (transform: translateX(-50%)) {
